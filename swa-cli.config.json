@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "digit-recognize": {
+      "appLocation": "app/templates",
+      "outputLocation": ".",
+      "appName": "digit-recognize",
+      "resourceGroup": "digit-recognize-rg"
+    }
+  }
+}
