@@ -6,7 +6,7 @@
 
 A **Flask-based web application** that serves a **machine learning model** for **digit recognition**.
 Configured for **production deployment** on **Render** with **Gunicorn**.
- 
+
 ---
 
 ## ⚙️ Technologies
